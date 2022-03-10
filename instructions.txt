@@ -1,4 +1,4 @@
-Install Python on your PC
+Install Python on your PC(Windows only)
 Install Beautifulsoup by running "pip install bs4" in cmd 
 Run main.py file using cmd in Given Folder
 
