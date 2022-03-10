@@ -1,0 +1,5 @@
+Install Python on your PC
+Install Beautifulsoup by running "pip install bs4" in cmd 
+Run main.py file using cmd in Given Folder
+
+It will generate result file with time stamp means new file each time you run the Program
